@@ -1,0 +1,47 @@
+#field{
+    top:0 px;
+    left:0 px;
+}
+
+#snake{
+    position:absolute;
+    width:20px;
+    height:20px;
+    top:0px;
+    left:0px;
+    background-color: #00FF00;
+}
+
+button{
+    position:fixed;
+    width:50px;
+    height:50px;
+}
+
+#left{
+    width:90px;
+    height:152px;
+    top:370px;
+    left:0px;
+}
+
+#right{
+    width:90px;
+    height:152px;
+    top:370px;
+    left:270px;
+}
+
+#up{
+    width:180px;
+    height:76px;
+    top:370px;
+    left:90px;
+}
+
+#down{
+    width:180px;
+    height:76px;
+    top:446px;
+    left:90px;
+}
